@@ -18,6 +18,8 @@
         </activity>
 
         <activity android:name=".RegisterActivity" />
+        <activity android:name=".VerifyActivity" />
+        <activity android:name=".UserActivity" />
         <activity android:name=".AthereActivity" />
     </application>
 
