@@ -23,7 +23,7 @@ public class AthereActivity extends AppCompatActivity {
         btn_Verify.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i = new Intent(AthereActivity.this, UserActivity.class);
+                Intent i = new Intent(AthereActivity.this, VerifyActivity.class);
                 startActivity(i);
             }
         });
